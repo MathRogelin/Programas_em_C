@@ -54,7 +54,7 @@ int main(){
         break;
     
         case 2:
-            printf("As regras sao...\n");
+            printf("Explicacao das regras...\n");
         break;
     
         case 3:
